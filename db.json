@@ -1,0 +1,161 @@
+{
+   "users":[
+    {
+        "id":1,
+        "tag":"mmoerth",
+        "email":"moerth.markus@gmail.com",
+        "firstname":"Mark",
+        "lastname":"Moerth",
+        "job":"Ingénieur étude et développement",
+        "company":"Sopra Steria",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2015",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":136
+     },
+     {
+        "id":2,
+        "tag":"fzaninotto",
+        "email":"jitewaboh@lagify.com",
+        "firstname":"François",
+        "lastname":"Zaninotto",
+        "job":"Ingénieur réseau",
+        "company":"Sopra Steria",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2014",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":200
+     },
+     {
+        "id":3,
+        "tag":"mdupont",
+        "email":"marc.dupont@gmail.com",
+        "firstname":"Marc",
+        "lastname":"Dupont",
+        "job":"Développeur",
+        "company":"Freelance",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2018",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":202
+     },
+     {
+        "id":4,
+        "tag":"gmart",
+        "email":"icanseeyou@gmx.net",
+        "firstname":"Gerald",
+        "lastname":"Mart",
+        "job":"Sysadmin",
+        "company":"Gravatar",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2015",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":453
+     },{
+        "id":5,
+        "tag":"jotander",
+        "email":"johnotander@gmail.com",
+        "firstname":"John",
+        "lastname":"Otander",
+        "job":"Développeur",
+        "company":"Atos",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2012",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":223
+     },
+     {
+        "id":6,
+        "tag":"ncauchois",
+        "email":"niicolascauchois@gmail.com",
+        "firstname":"Nicolas",
+        "lastname":"Cauchois",
+        "job":"Alternant",
+        "company":"CPAM OISE",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2022",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":86
+     },
+     {
+        "id":7,
+        "tag":"lsartoreto",
+        "email":"laurasartoretto@hotmail.com",
+        "firstname":"Laura",
+        "lastname":"Sartoreto",
+        "job":"Développeur full stack",
+        "company":"Capgemini",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2012",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":40
+     },
+     {
+        "id":8,
+        "tag":"gmorin",
+        "email":"geraldine_morin_@hotmail.com",
+        "firstname":"Geraldine",
+        "lastname":"Morin",
+        "job":"Développeur web",
+        "company":"Capgemini",
+        "school":"INSA Hauts-de-France",
+        "promotion":"2012",
+        "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+        "nbFriends":123
+     }
+   ],
+   "friends":[
+      {
+         "id":1,
+         "tag":"mmoerth",
+         "email":"moerth.markus@gmail.com",
+         "firstname":"Mark",
+         "lastname":"Moerth",
+         "job":"Ingénieur étude et développement",
+         "company":"Sopra Steria",
+         "school":"INSA Hauts-de-France",
+         "promotion":"2015",
+         "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+         "nbFriends":136
+      },
+      {
+         "id":2,
+         "tag":"fzaninotto",
+         "email":"jitewaboh@lagify.com",
+         "firstname":"François",
+         "lastname":"Zaninotto",
+         "job":"Ingénieur réseau",
+         "company":"Sopra Steria",
+         "school":"INSA Hauts-de-France",
+         "promotion":"2014",
+         "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+         "nbFriends":200
+      },
+      {
+         "id":4,
+         "tag":"gmart",
+         "email":"icanseeyou@gmx.net",
+         "firstname":"Gerald",
+         "lastname":"Mart",
+         "job":"Sysadmin",
+         "company":"Gravatar",
+         "school":"INSA Hauts-de-France",
+         "promotion":"2015",
+         "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+         "nbFriends":453
+      },
+      {
+         "id":8,
+         "tag":"gmorin",
+         "email":"geraldine_morin_@hotmail.com",
+         "firstname":"Geraldine",
+         "lastname":"Morin",
+         "job":"Développeur web",
+         "company":"Capgemini",
+         "school":"INSA Hauts-de-France",
+         "promotion":"2012",
+         "description":"Toujours prêt à faire des nouvelles rencontres ! N’ayez pas peur de m’ajouter dans votre réseau !",
+         "nbFriends":123
+      }
+   ]
+}
